@@ -1,1 +1,5 @@
+ HEAD
 Версия из ветки master
+
+Версия из ветки conflict-branch
+ conflict-branch
